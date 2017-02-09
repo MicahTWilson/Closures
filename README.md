@@ -11,7 +11,7 @@ button.actionHandle(controlEvents: .touchUpInside, identifier: nil) {
 ```
     
     
-or for a `TapGestureRecognizer`
+or for a `UIGestureRecognizer`
 
 ```swift
 let view = UIView()
